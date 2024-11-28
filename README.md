@@ -11,7 +11,7 @@ Gradient Generator JS is a simple and interactive web application that allows us
 
 ## Preview
 
-![Gradient Generator Preview](media/gradient-preview.gif)
+![Gradient Generator Preview](preview.gif)
 
 *(Above: A demonstration of the Gradient Generator in action)*
 
