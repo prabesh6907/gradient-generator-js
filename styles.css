@@ -1,0 +1,85 @@
+#background{
+    background-image: linear-gradient(to right, #81bdb7, #bc4bf2);
+    margin: 0;
+}
+
+#pageTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    font-family: Courier New;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.heading {
+    font-family: monospace;
+    font-size: 32px;
+    color: Black;
+}
+
+#line {
+    background-color: transparent; 
+    border-style:none none solid none;
+    width: 33%;
+    border-color: black ; 
+    border-width: 2px; 
+    height: 0px;
+    margin: 0 auto;
+}
+
+#pageContent {
+    width: 54%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.2); /* White with 80% transparency */
+    border-radius: 20px;
+}
+
+.copy {
+    background-color: rgba(255, 255, 255, 0.4); /* White with 60% transparency */
+    border-radius: 10px;
+}
+
+#copyText {
+    color: gray;
+    padding: 10px;
+}
+
+.button {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 10px;
+}
+
+.btn1 {
+    border-radius: 100px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-color: silver;
+    margin-right: 10px;
+}
+
+.btn2 {
+    border-radius: 100px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-color: silver;
+    margin-left: 10px;
+}
+
