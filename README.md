@@ -9,6 +9,12 @@ Gradient Generator JS is a simple and interactive web application that allows us
 - **Copy Gradient Code**: Easily copy the generated gradient's CSS code with a single click.
 - **Responsive Design**: Works seamlessly across different devices and screen sizes.
 
+## Preview
+
+![Gradient Generator Preview](media/gradient-preview.gif)
+
+*(Above: A demonstration of the Gradient Generator in action)*
+
 ## How It Works
 
 1. **Select Colors**: Click on the two color buttons to generate random colors.
